@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dafta
+ *
+ */
+module SecondJavaProject {
+}
